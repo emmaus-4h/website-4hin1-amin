@@ -86,7 +86,9 @@ nav li a.active {
 .artiesttekst {
   color:rgb(255, 255, 255);
   width: 500px;
+  float: right;
 }
+
 .artiestplaatje {
   width: 300px;
   float:left;
@@ -94,6 +96,12 @@ nav li a.active {
 }
 .naartiest {
   clear:both;}
+
+ 
+.artiesttekstopplaat {
+  height:300px;
+  width: 300px;
+  background-image: url("afbeeldingen/leage of legends.jpg";
   
 
 
