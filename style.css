@@ -4,15 +4,16 @@ html, body {
     height: 100%;
     padding: 0;
     background-color: rgb(0, 0, 0);  
+    float: right;
     
-    color: #00ff0d;
-    font: Verdana, Arial, Sans-Serif;
+    color: #ffffff;
+    font-family: Copperplate, Papyrus, fantasy;
 }
 
 
 main {
     margin: 0 auto;
-    width: 1500px;
+    width: 800px;
     position: relative;
 }
 
@@ -23,7 +24,7 @@ article {
 
 
 header {
-    color: rgb(255, 0, 200);
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
@@ -46,7 +47,7 @@ img.zweefLinks {
 }
 
 a {
-    color: rgb(255, 174, 0);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -60,7 +61,7 @@ nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #6e00fd;
+    background-color: #ffffff;
     overflow: hidden;
 }
 
@@ -70,14 +71,14 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: rgb(255, 0, 0);
+    color: rgb(5, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #cc00ff;
+    background-color: skyblue;
 }
 
 nav li a.active {
@@ -86,7 +87,7 @@ nav li a.active {
 .artiesttekst {
   color:rgb(255, 255, 255);
   width: 500px;
-  float: right;
+  
 }
 
 .artiestplaatje {
@@ -104,10 +105,7 @@ nav li a.active {
   }
 
  
-.artiesttekstopplaat {
-  height:300px;
-  width: 300px;
-  background-image: url("afbeeldingen/leage of legends.jpg";
+
   
 
 
